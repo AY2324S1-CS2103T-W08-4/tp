@@ -19,9 +19,9 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 * Role: Project Advisor
 
-### Jane Doe
+### Vijayaraghavan Vihnuprasath
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/timetraveller-123.png" width="200px">
 
 [[github](http://github.com/johndoe)]
 [[portfolio](team/johndoe.md)]
@@ -35,7 +35,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 [[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
 
-* Role: Developer
+git s* Role: Developer
 * Responsibilities: Data
 
 ### Jean Doe
