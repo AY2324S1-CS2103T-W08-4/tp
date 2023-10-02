@@ -9,15 +9,15 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ## Project team
 
-### John Doe
+### Immanuel Chia
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/ImmanuelChia.png" width="200px">
 
 [[homepage](http://www.comp.nus.edu.sg/~damithch)]
-[[github](https://github.com/johndoe)]
+[[github](https://github.com/HEEaZ)]
 [[portfolio](team/johndoe.md)]
 
-* Role: Project Advisor
+* Role: Developer
 
 ### Vijayaraghavan Vihnuprasath
 
@@ -40,9 +40,9 @@ git s* Role: Developer
 
 ### Jean Doe
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/WanLei.png" width="200px">
 
-[[github](http://github.com/johndoe)]
+[[github](http://github.com/linwanleii)]
 [[portfolio](team/johndoe.md)]
 
 * Role: Developer
